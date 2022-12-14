@@ -1,2 +1,2 @@
-# synchronization-A5
+#   Synchronization-A5
 Q1 of Synchronzation Assignment, Operating Systems
